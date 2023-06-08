@@ -2,8 +2,9 @@
 Проект предназначен для классификации картинок, используя уже натренированные ML модели
 
 Проект представлен в виде web-приложения.
-![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/7d58a493-4f02-43f3-9e7c-697b7c601c78)
 
+
+![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/7d58a493-4f02-43f3-9e7c-697b7c601c78)
 
 Пользователя может загрузить свое изображение для классификации картинок
 
