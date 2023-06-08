@@ -18,6 +18,8 @@
 Проверьте прокомментированный код в app.py.
 
 Используйте другую предварительно обученную модель
-Смотрите приложения Keras для других доступных моделей, таких как DenseNet, MobilNet, NASNet и т.д.
+Смотрите в Keras для других доступных моделей, таких как DenseNet, MobilNet, NASNet и т.д.
+https://keras.io/applications/
+https://www.tensorflow.org/api_docs/python/tf/keras/applications
 
 Проверьте этот раздел в app.py.
