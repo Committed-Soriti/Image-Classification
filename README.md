@@ -1,4 +1,13 @@
 ## Image-Classification
+Проект предназначен для классификации картинок, используя уже натренированные ML модели
+
+Проект представлен в виде web-приложения.
+![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/7d58a493-4f02-43f3-9e7c-697b7c601c78)
+
+Пользователя может загрузить свое изображение для классификации картинок
+
+![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/bb5f674b-e112-4a02-906e-778b27671d86)
+
 
 Используйте свою собственную модель
 Поместите ваш обученный .h5 файл, сохраненный с помощью model.save(), в каталог models.
