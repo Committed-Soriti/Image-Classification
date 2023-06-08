@@ -22,4 +22,4 @@
 https://keras.io/applications/
 https://www.tensorflow.org/api_docs/python/tf/keras/applications
 
-Проверьте этот раздел в app.py.
+Испытайте возможности распознавание вместе с нами
