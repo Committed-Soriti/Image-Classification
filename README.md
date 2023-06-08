@@ -8,7 +8,8 @@
 
 Пользователя может загрузить свое изображение для классификации картинок
 
-![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/bb5f674b-e112-4a02-906e-778b27671d86)
+![image](https://github.com/Committed-Soriti/Image-Classification/assets/128974407/47515049-857c-40f3-99d3-781e320a2d21)
+
 
 
 Используйте свою собственную модель
